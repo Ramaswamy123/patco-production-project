@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/patco-production-project/static/css/main.b5627f24.css",
+    "main.js": "/patco-production-project/static/js/main.192adb4b.js",
+    "static/js/787.2661c709.chunk.js": "/patco-production-project/static/js/787.2661c709.chunk.js",
+    "static/media/video.mp4": "/patco-production-project/static/media/video.16ec0d9209f4b15bab29.mp4",
+    "static/media/social-media.jpg": "/patco-production-project/static/media/social-media.1f4b3f8422fc81c1151b.jpg",
+    "static/media/content-writing.jpg": "/patco-production-project/static/media/content-writing.dd74d33a253f5912e913.jpg",
+    "static/media/footer-logo.png": "/patco-production-project/static/media/footer-logo.4705b30b399cf6b7bc7b.png",
+    "static/media/C-Logo6.png": "/patco-production-project/static/media/C-Logo6.3ca8f64eb9df33a9769c.png",
+    "static/media/C-Logo11.png": "/patco-production-project/static/media/C-Logo11.7879b4ec8cd5fbec3a91.png",
+    "static/media/Outdoors-man-portrait_(cropped).jpg": "/patco-production-project/static/media/Outdoors-man-portrait_(cropped).adbfb49b65d384b6d1c0.jpg",
+    "static/media/C-Logo12.png": "/patco-production-project/static/media/C-Logo12.cd8eaf8df33fa326ce32.png",
+    "static/media/main-logo.png": "/patco-production-project/static/media/main-logo.4a0c6870c1196606138f.png",
+    "static/media/SummerLadiesDEMO.ttf": "/patco-production-project/static/media/SummerLadiesDEMO.d8d1db3dbb858a5b918e.ttf",
+    "static/media/C-Logo19.png": "/patco-production-project/static/media/C-Logo19.ae68891a39613c6abaab.png",
+    "static/media/C-Logo17.png": "/patco-production-project/static/media/C-Logo17.12fb3e8b449567f04f91.png",
+    "static/media/C-Logo2.png": "/patco-production-project/static/media/C-Logo2.c9110c0551037355ef8a.png",
+    "static/media/C-Logo8.png": "/patco-production-project/static/media/C-Logo8.487b0ed7175327f08622.png",
+    "static/media/C-Logo13.png": "/patco-production-project/static/media/C-Logo13.854be4db0bb6f02b1727.png",
+    "static/media/C-Logo5.png": "/patco-production-project/static/media/C-Logo5.d7849d9a2ae44bae1a63.png",
+    "static/media/Asset 1.svg": "/patco-production-project/static/media/Asset 1.8299a8291533645f0d61162e12566ddb.svg",
+    "static/media/Asset 2.svg": "/patco-production-project/static/media/Asset 2.3c9f7f641877be6d607e274d42cfdd8f.svg",
+    "index.html": "/patco-production-project/index.html",
+    "main.b5627f24.css.map": "/patco-production-project/static/css/main.b5627f24.css.map",
+    "main.192adb4b.js.map": "/patco-production-project/static/js/main.192adb4b.js.map",
+    "787.2661c709.chunk.js.map": "/patco-production-project/static/js/787.2661c709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5627f24.css",
+    "static/js/main.192adb4b.js"
+  ]
+}
